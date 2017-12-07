@@ -1,0 +1,7 @@
+# User data not in DB
+
+/storage
+
+# Database config.
+
+/config.php

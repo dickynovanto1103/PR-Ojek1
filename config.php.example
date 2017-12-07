@@ -1,0 +1,9 @@
+<?php
+$DB_CONNECTION_STRING = 'mysql:host=127.0.0.1;dbname=DB_NAME;charset=utf8mb4';
+$DB_USER = 'DB_USER';
+$DB_PASS = 'DB_PASS';
+
+$DOC_ROOT = '/DOC_ROOT';
+$URL_ROOT = "http://DOMAIN:PORT$DOC_ROOT";
+
+?>
